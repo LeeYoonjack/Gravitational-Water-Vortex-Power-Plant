@@ -9,5 +9,5 @@ I would like to extend my gratitude to Austin, my senior at the University of So
 
 1. Clone this repository to your local machine.
 2. Make sure you have the required libraries installed to run the code.
-3. Replace `/path/to/your/video/file.mp4` with the actual path to your video file.
+3. Replace `/path/to/your/video/file.mp4` with the actual path to your video file. (.mp4 file recommended)
 4. Run the script, left click hold and drag so that the blue square will fit the whole blade. 
